@@ -3,6 +3,8 @@
 
 A **fast**, **easy-to-use**, and **powerful** Python-based proxy scraper designed for scraping and validating **HTTP**, **SOCKS4**, and **SOCKS5** proxies. 🕵️‍♂️
 
+---
+
 ## 🔥 Features
 
 - 🧹 Scrapes **HTTP**, **SOCKS4**, and **SOCKS5** proxies.
@@ -11,6 +13,8 @@ A **fast**, **easy-to-use**, and **powerful** Python-based proxy scraper designe
 - 📂 Saves valid proxies into a folder for later use.
 - ✨ Simple, intuitive interface—just run and let it work!
 
+---
+
 ## 📦 Installation
 
 To get started, simply install the required libraries:
@@ -18,6 +22,8 @@ To get started, simply install the required libraries:
 ```bash
 pip install colorama pystyle requests
 ```
+
+---
 
 ## 🚀 Usage
 
@@ -28,35 +34,36 @@ pip install colorama pystyle requests
 
 Everything is guided through the program—no commands needed! 💻
 
+---
+
+## ⭐️ Give it a Star!
+
+If you like this project, **give it a star** and support its growth! It motivates me to keep improving it and adding more features. 🚀
+
+[![Stars](https://img.shields.io/github/stars/124Px/Proxy-scrapper?style=social)](https://github.com/124Px/Proxy-scrapper)
+
+---
+
+## 📸 Screenshot
+
+Here's a preview of how the program looks in action:
+
+![Screenshot](https://github.com/124Px/Proxy-scrapper/raw/main/screenshot.JPG)
+
+---
+
 ## 🤝 Contributing
 
 Feel free to fork this repo and submit a pull request if you'd like to contribute. Contributions are always welcome! ❤️
+
+---
 
 ## 📜 License
 
 This project is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0).
 
-## ⭐️ Give it a Star!
-
-If you like this project, don't forget to give it a ⭐️. It helps the project grow and motivates me to keep improving it! 💪
-
-## 📸 Screenshots
-
-To add a screenshot to your repository:
-
-1. Upload the image to the repository by dragging it into the GitHub interface or using the Git command line.
-2. Once uploaded, click on the image to open it.
-3. Right-click on the image and select **Copy image address**.
-4. Paste the image URL in your README like this:
-
-```markdown
-![Screenshot](https://github.com/username/repository-name/raw/main/path/to/your-screenshot.png)
-```
-
-Replace the URL with the correct path to your screenshot.
-
 ---
 
 ## Author
 
-This project is maintained by **[Your Name]**.
+This project is maintained by **124P**.
