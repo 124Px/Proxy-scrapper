@@ -44,6 +44,12 @@ If you like this project, **give it a star** and support its growth! It motivate
 
 ---
 
+## 📥 Download the Latest Release
+
+You can download the latest release of the UHQ Proxy Scrapper directly from the [Releases Page](https://github.com/124Px/Proxy-scrapper/releases). 🚀
+
+---
+
 ## 📸 Screenshot
 
 Here's a preview of how the program looks in action:
