@@ -51,7 +51,7 @@ Download the latest version here: [UHQ Proxy Scraper - Latest Release](https://g
 
 Here is a preview of the program in action:
 
-![Screenshot](https://github.com/124Px/Proxy-scrapper/raw/main/screenshot.JPG)
+<img src="https://github.com/124Px/Proxy-scrapper/raw/main/screenshot.JPG" width="500" />
 
 ---
 
