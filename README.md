@@ -1,23 +1,20 @@
+# 🌐 UHQ Proxy Scraper
 
-# 🌐 UHQ Proxy Scrapper 🚀
-
-A **fast**, **easy-to-use**, and **powerful** Python-based proxy scraper designed for scraping and validating **HTTP**, **SOCKS4**, and **SOCKS5** proxies. 🕵️‍♂️
+A **fast and powerful** Python-based proxy scraper designed to fetch and validate **HTTP, SOCKS4, and SOCKS5** proxies.
 
 ---
 
-## 🔥 Features
+## 🚀 Features
 
-- 🧹 Scrapes **HTTP**, **SOCKS4**, and **SOCKS5** proxies.
-- ✅ Automatically validates and saves **working proxies**.
-- ⚡️ Fully automated with **no setup** required.
-- 📂 Saves valid proxies into a folder for later use.
-- ✨ Simple, intuitive interface—just run and let it work!
+- Automatically scrapes and validates **HTTP, SOCKS4, and SOCKS5** proxies.
+- Saves valid proxies for later use.
+- Simple and intuitive interface, **no setup required**.
 
 ---
 
 ## 📦 Installation
 
-To get started, simply install the required libraries:
+Install the required dependencies with:
 
 ```bash
 pip install colorama pystyle requests
@@ -25,51 +22,51 @@ pip install colorama pystyle requests
 
 ---
 
-## 🚀 Usage
+## 🎯 Usage
 
 1. Clone or download the repository.
 2. Run the Python script.
-3. Follow the on-screen instructions to select proxy types (HTTP, SOCKS4, SOCKS5).
-4. Valid proxies will be automatically saved to a folder.
+3. Select the proxy type (HTTP, SOCKS4, SOCKS5).
+4. Valid proxies will be saved automatically.
 
-Everything is guided through the program—no commands needed! 💻
+Everything is guided within the program, **no complex commands needed**!
 
 ---
 
-## ⭐️ Give it a Star!
+## ⭐️ Support
 
-If you like this project, **give it a star** and support its growth! It motivates me to keep improving it and adding more features. 🚀
+If you like this project, **give it a star** to support its development!
 
 [![Stars](https://img.shields.io/github/stars/124Px/Proxy-scrapper?style=social)](https://github.com/124Px/Proxy-scrapper)
 
 ---
 
-## 📥 Download the Latest Release
+## 📥 Download
 
-You can download the latest release of the UHQ Proxy Scrapper directly from the [Releases Page](https://github.com/124Px/Proxy-scrapper/releases). 🚀
+Download the latest version here: [UHQ Proxy Scraper - Latest Release](https://github.com/124Px/Proxy-scrapper/releases/latest/download/UHQ-Proxy-Scraper.zip)
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
-Here's a preview of how the program looks in action:
+Here is a preview of the program in action:
 
 ![Screenshot](https://github.com/124Px/Proxy-scrapper/raw/main/screenshot.JPG)
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribute
 
-Feel free to fork this repo and submit a pull request if you'd like to contribute. Contributions are always welcome! ❤️
+Contributions are welcome! Fork the repo and submit a pull request.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0).
+Licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
 
 ---
 
 ## Author
 
-This project is maintained by **124P**.
+Project maintained by **124P**.
